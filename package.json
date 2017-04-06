@@ -1,15 +1,9 @@
 {
   "name": "mep-utilities.pin",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pin Utility",
   "main": "stylesheets/_utility-pin.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "utility-pin",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
